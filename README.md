@@ -2,5 +2,4 @@
 
 This project was created from local system.
 
-# This project is made by 
-# Aakash
+# This project is created by Aakash
