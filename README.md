@@ -82,14 +82,7 @@ User input is checked **step-by-step** against the game sequence.
 
 ---
 
-## 📂 Project Structure
 
-Simon-Says-Game/
-├── index.html
-├── style.css
-└── app.js
-
----
 
 ## 🔮 Future Improvements
 
